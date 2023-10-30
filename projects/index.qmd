@@ -1,9 +1,8 @@
 ---
-title: "Projects"
-subtitle: "Here is an overview of the project I have been working on."
+title: "Projets"
 ---
 
-## Project I
+## ANR SoDUCo
 
 A description of Project 
 

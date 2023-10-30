@@ -30,7 +30,7 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Projets",
     "section": "",
     "text": "A description of Project"
   },
@@ -44,7 +44,7 @@
   {
     "objectID": "projects/index.html#project-ii",
     "href": "projects/index.html#project-ii",
-    "title": "Projects",
+    "title": "Projets",
     "section": "Project II",
     "text": "Project II\nA description of Project"
   },
@@ -96,5 +96,19 @@
     "title": "Julie Gravier",
     "section": "",
     "text": "I have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "phd/index.html",
+    "href": "phd/index.html",
+    "title": "Thèse en Géographie",
+    "section": "",
+    "text": "Titre\nDeux mille ans d’une ville en système. Proposition d’une démarche appliquée au cas de Noyon  Télécharger la thèse sur TEL.\n\n\nMots-clefs\nEspace intra-urbain ; système de villes ; temps long ; interdisciplinarité ; Noyon\n\n\nJury\nPrésentée et soutenue publiquement le 5 décembre 2018, ayant reçu le Prix de thèse de Géographie du GdR MAGIS\nMembres du jury\nSophie de Ruffray (Professeure, Université de Rouen – rapporteur), Laurent Schneider (Directeur de recherche CNRS, Directeur d’étude EHESS – rapporteur), Clarisse Didelon-Loiseau (Professeure, Université Paris 1 – Panthéon-Sorbonne – présidente), Sander van der Leeuw (Professeur, Arizona State University – examinateur), Dominique Michelet (Directeur de recherche CNRS émérite – examinateur)\nDirection\nLena Sanders (Directrice de recherche CNRS, UMR Géographie-cités), Nicolas Verdier (Directeur de recherche CNRS, Directeur d’Étude EHESS, UMR Géographie-cités)\n\n\nRésumé\nL’objet de cette thèse est de comprendre l’évolution d’une ville sur toute la durée de son existence. Elle se fonde sur le cas de Noyon, dont l’origine remonte au 1er s. apr. J.-C. La démarche est schématiquement décomposée en trois temps. Il s’agit tout d’abord d’étudier la structure intra-urbaine fonctionnelle et d’en identifier la trajectoire sur 2 000 ans. Puis nous appréhendons la position relative de la ville – saisie d’un point de vue politico-administratif, économique et spatial – par rapport aux autres villes avec lesquelles elle est en interaction. La confrontation de la trajectoire intra-urbaine et de la position relative de la ville permet enfin d’examiner ce qui unit l’histoire d’une ville avec l’histoire des villes avec lesquelles elle fait système. La très longue durée considérée fait émerger deux enjeux majeurs. D’une part, les sociétés étudiées sur 2 000 ans sont très différentes. L’enjeu est donc de les comparer, ce qui implique de questionner la pérennité de la signification des objets spatio-temporels étudiés pour reconstituer leurs trajectoires. D’autre part, cette approche requiert l’étude de données archéologiques, textuelles et iconographiques, qui sont lacunaires et imprécises, en particulier pour l’étude de phénomènes à petite échelle. Un des défis du travail consiste donc à mener une véritable enquête à partir de laquelle on doit cumuler les indices pour tenter de reconstituer d’anciennes réalités spatiales. Tout cela demande finalement d’élaborer de nouvelles approches méthodologiques et d’expliciter les chemins relatifs à la construction des connaissances afin de proposer une étude des villes en système sur le temps long qui soit reproductible."
+  },
+  {
+    "objectID": "projects/index.html#anr-soduco",
+    "href": "projects/index.html#anr-soduco",
+    "title": "Projets",
+    "section": "",
+    "text": "A description of Project"
   }
 ]
