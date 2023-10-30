@@ -1,6 +1,6 @@
 ---
 title: "Julie Gravier"
-image: docs/CV_court/jgravier.png
+image: CV_court/jgravier2.png
 about:
   id: hero-heading
   template: trestles
@@ -22,7 +22,7 @@ Licence d'Histoire de l'Art et d'Archéologie (2010)
 
 ### Expérience
 
-CV court : <a href="docs/CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>
+CV court : <a href="CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>
 
 CV long : <a href="https://geographie-cites.cnrs.fr/membres/julie-gravier/" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
 

@@ -9,7 +9,7 @@ cvcolor:
   accent: 008bbd
 jobtitle: Post-doctorante EHESS
 sidebar:
-  image: jgravier.png
+  image: jgravier2.png
   sections: 
     - name: Contact
       items:
