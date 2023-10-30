@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Julie Gravier"
+
+  page-footer:
+    left: "&copy; 2023, Julie Gravier"
+    right: "Built with [Quarto](https://quarto.org/)."
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      
+      - href: about.qmd
+        text: CV
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,30 @@
+---
+title: "Julie Gravier"
+image: docs/CV_court/jgravier.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+---
+
+::: {#hero-heading}
+### Formation
+
+Thèse de Géographie (2018)
+
+Master d'Archéologie (2012)
+
+Licence d'Histoire (2010)
+
+Licence d'Histoire de l'Art et d'Archéologie (2010)
+
+
+### Expérience
+
+CV court : <a href="docs/CV_court/template.pdf" style="color:#BA2E00;"> FR </a>
+
+CV long : <a href="https://geographie-cites.cnrs.fr/membres/julie-gravier/" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
+
+:::
+
