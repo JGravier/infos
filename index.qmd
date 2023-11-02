@@ -10,11 +10,11 @@ about:
 ::: {#hero-heading}
 ##### <a href="https://geographie-cites.cnrs.fr/membres/julie-gravier/" style="color:#BA2E00;"> <font size="+2">{{< fa house >}}</font></a> <a href="https://orcid.org/0000-0003-0449-6499" style="color:#BA2E00;"> <font size="+2">{{< ai orcid >}}</font></a> <a href="https://scholar.google.fr/citations?user=_3L9a68AAAAJ&hl=fr" style="color:#BA2E00;"> <font size="+2">{{< ai google-scholar >}}</font></a> <a href="https://cv.hal.science/julie-gravier" style="color:#BA2E00;"> <font size="+2">{{< ai hal >}}</font></a> <a href="https://github.com/JGravier" style="color:#BA2E00;"> <font size="+2">{{< fa brands github >}}</font></a> {.centering}
 
-#### Actuellement
-Je suis chercheuse post-doctorante à l'EHESS dans le cadre du projet <a href="https://soduco.geohistoricaldata.org/" target="_blank" style="color:#BA2E00;">ANR SoDUCo</a> au sein duquel j’approfondis la co-évolution de diverses activités urbaines dans Paris au fil du 19e s.
+#### Currently
+I am a post-doctoral researcher at EHESS, as part of the <a href="https://soduco.geohistoricaldata.org/" style="color:#BA2E00;">ANR SoDUCo project</a>, within which I am studying the co-evolution of various urban activities in Paris over the 19th century.
 
-#### Mes recherches
-J’étudie les dynamiques de durabilité des peuplements en système à travers deux questions principales : comment les institutions politiques façonnent-elles les relations sociales et dans quelle mesure cela influence-t-il l’organisation matérielle de l’espace sur le temps long ? comment la production de l'espace matériel à un moment donné par les sociétés peut-elle provoquer d'autres processus, plus tard, et sur des durées particulièrement longues ?
+#### My research
+I study the durability dynamics of settlement systems through two main questions: how do political institutions shape social relations, and to what extent does it impact the material organization of space over the long term? How can the production of physical space at a given moment by societies generate other processes, later on, and over particularly long duration?
 
-Pour mieux y répondre, j’analyse des systèmes de peuplement à différentes périodes chronologiques et dans différents endroits du monde, principalement à des échelles locales à régionales. Mon objectif est d'identifier des formes d'invariance des processus sociaux et spatiaux dans le but de mieux qualifier les variations selon les sociétés et de mieux réfléchir aux capacités d'action de nos sociétés contemporaines sur ces systèmes.
+To better answer these questions, I'm analyzing settlement systems at different chronological periods and in different parts of the world with formalized approaches, mainly at local to regional scales. My aim is to identify forms of invariance in social and spatial processes, in order to better qualify variations between societies, and to better think our capacities to act on those contemporary systems.
 :::

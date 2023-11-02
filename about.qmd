@@ -9,22 +9,22 @@ about:
 ---
 
 ::: {#hero-heading}
-### Formation
+### Education
 
-Thèse de Géographie (2018)
+PhD in Geography (2018)
 
-Master d'Archéologie (2012)
+MA in Archaeology (2012)
 
-Licence d'Histoire (2010)
+BA in History (2010)
 
-Licence d'Histoire de l'Art et d'Archéologie (2010)
+BA in History of Art and Archaeology (2010)
 
 
-### Expérience
+### Experience
 
-CV court : <a href="docs/CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>
+Short CV: <a href="docs/CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>
 
-CV long : <a href="docs/CV_long/cv_long_202310.pdf" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
+Long CV: <a href="docs/CV_long/cv_long_202310.pdf" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
 
 :::
 
