@@ -24,7 +24,7 @@ Licence d'Histoire de l'Art et d'Archéologie (2010)
 
 CV court : <a href="docs/CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>
 
-CV long : <a href="https://geographie-cites.cnrs.fr/membres/julie-gravier/" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
+CV long : <a href="docs/CV_long/cv_long_202310.pdf" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
 
 :::
 

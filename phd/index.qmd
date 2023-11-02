@@ -5,7 +5,7 @@ subtitle: "Descriptif"
 
 ### Titre
 
-_Deux mille ans d’une ville en système. Proposition d’une démarche appliquée au cas de Noyon_ <a href="https://theses.hal.science/tel-02367262" style="color:#BA2E00;"> Télécharger la thèse sur TEL</a>.
+_Deux mille ans d’une ville en système. Proposition d’une démarche appliquée au cas de Noyon_. <a href="https://theses.hal.science/tel-02367262" style="color:#BA2E00;"> Télécharger la thèse sur TEL</a>.
 
 ### Mots-clefs
 Espace intra-urbain ; système de villes ; temps long ; interdisciplinarité ; Noyon
