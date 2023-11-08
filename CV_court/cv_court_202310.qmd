@@ -36,19 +36,18 @@ sidebar:
         - text: "Licence d'Histoire de l'Art et d'Archéologie"
           inst: "Université Paris 1"
           time: "2007-2010"
-    - name: Activité
+    - name: Activités
       items:
-        - Co-organisation de 3 sessions de colloques internationaux
-        - Co-organisation de 9 journées d'études
-        - Co-direction de la revue Rzine
-        - Co-encadrement de 3 Master et d'1 Thèse
-        - 381h d'enseignement en géo
-        - 305h d'enseignement en archéo
-        - Co-organisation de 2 écoles d'été
+        - Direction de la revue Rzine
+        - Organisation de 9 journées d'étude, 3 sessions de colloque international, 2 summer school
+        - +70 conférences, dont 20 invitations
+        - 17 articles, chapitres d'ouvrage \& actes de colloque
+        - Encadrement de 3 masters \& 1 thèse en archéologie
+        - Enseignement de 381h en géographie, 305h en archéologie
     - name: Méthodologie
       items:
         - BDD relationnelle
-        - Traitement statistique
+        - Statistiques
         - Géomatique
         - Réseau et graphe
         - Text mining
@@ -59,9 +58,10 @@ sidebar:
     - name: Langage
       items:
         - R
-        - SQL (PostgreSQL/PostGIS)
+        - SQL
         - UML
-        - HTML, Markdown
+        - HTML
+        - Markdown
         - LaTeX
     - name: Langue
       items:
@@ -137,7 +137,7 @@ tibble::tribble(
 2023 | J. Charbonnier, Y. Kanhoush, J. Gravier, G. Gourret et al., "Mapping an Arabian oasis: first results of the UCOP systematic survey of al‑ʿUlā (AlUla) Valley (2019–2021)", dans Revealing Cultural Landscapes in North‑West Arabia, R. Foote, M. Guagnin, I. Périssé, et S. Karacic, Éd., _Supplement to Volume 51 of the Proceedings of the Seminar for Arabian Studies_, Oxford: Archaeopress, 2022, p. 51‑81
 
 
-2022 | C. Plumejeaud-Perreau, L. Nahassia, et J. Gravier, "Appréhender le changement des catégories pour l’étude d’une dynamique spatiale sur le temps long", _Revue Internationale de Géomatique_, vol. 31, no 1-2, Paris : Lavoisier, pp. 47-80
+2022 | C. Plumejeaud-Perreau, L. Nahassia, et J. Gravier, "Appréhender le changement des catégories pour l’étude d’une dynamique spatiale sur le temps long", _Revue Internationale de Géomatique_, vol. 31, no 1-2, Paris : Lavoisier, pp. 47-80, [https://doi.org/10.3166/rig31.47-80](https://doi.org/10.3166/rig31.47-80)
 
 # Dernières communications
 
@@ -146,5 +146,6 @@ tibble::tribble(
 
 2023 | J. Gravier, "Time budgets and forms of preindustrial cities: time for empirical studies", _European Colloquium on Theoretical and Quantitative Geography_, Braga, Portugal, 17 septembre
 
+2023 | J. Charbonnier, J. Gravier, A. Leschallier de Lisle, A. de Smet, S. Boudia, V. Koszarek, et Y. Kanhoush, "Exploring land-use in arid regions based on statistical analyses of the agricultural plots in Al-Ula oasis (Hejaz, KSA)", _29th EAA Annual Meeting_, Queens University, Belfast, 31 août 2023
 
 2022 | J. Gravier, G. Gourret, Y. Kanhoush et J. Charbonnier, "Expansion of an oasis from the end of the 19th century to the present day: what are the factors behind these dynamics? Case study in Al-Ula, Saudi Arabia", _International Geographic Union Colloquium_, Paris, France, 19 juillet

@@ -1,0 +1,150 @@
+---
+title: Untitled
+format:
+  modern2-cv-pdf: default
+author: Julie Gravier
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+cvcolor: 
+  main: BD5900
+  accent: 008bbd
+jobtitle: Post-doctoral Fellow EHESS
+sidebar:
+  image: jgravier2.png
+  sections: 
+    - name: Contact
+      items:
+        - icon: envelope
+          text: juliecatherine.gravier@gmail.com
+        - icon: orcid
+          text: 0000-0003-0449-6499
+          href: https://orcid.org/0000-0003-0449-6499
+        - icon: github
+          text: JGravier
+          href: https://github.com/JGravier
+    - name: Education
+      items:
+        - text: "PhD in Geography"
+          inst: "University of Paris 1"
+          time: "2012-2018"
+          details: "Thesis: A city within its systems of cities over two thousand years"
+        - text: "MA in Archaeology"
+          inst: "University of Paris 1"
+          time: "2010-2012"
+        - text: "BA in History"
+          inst: "University of Paris 1"
+          time: "2007-2010"
+        - text: "BA in History of Art and Archaeology"
+          inst: "University of Paris 1"
+          time: "2007-2010"
+    - name: Activities
+      items:
+        - Direction of Rzine Journal
+        - Organisation of 9 workshops, 3 sessions in international colloquium, 2 summer school
+        - +70 conferences, included 20 invited talks \& guest lectures
+        - 17 papers, book chapters \& conference proceedings
+        - Mentoring 3 MA \& 1 PhD in Archaeology
+        - Teaching 381h in Geography, 305h in Archaeology
+    - name: Methodology
+      items:
+        - Relational DB
+        - Statistics
+        - GIScience
+        - Network \& Graph
+        - Text mining
+        - Web scrapping
+        - Visualisation
+        - Cartography
+        - Reproducibility
+    - name: Langage
+      items:
+        - R
+        - SQL
+        - UML
+        - HTML
+        - Markdown
+        - LaTeX
+    - name: Langue
+      items:
+        - English
+        - Latin (classic and medieval)
+        - Medieval French
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: cvevents
+cvevents <- function(tbl, when, what, where, descr) {
+
+    command_start <- "\\cvevent"
+    tbl[[where]] <- gsub("\n", " \\\\newline ", tbl[[where]])
+    res <- paste0(
+        command_start, "{", tbl[[when]], "}", 
+        "{", tbl[[what]], "}",
+        "{", tbl[[where]], "}",
+        "{", tbl[[descr]], "}"
+        )
+
+    cat(res, sep = "\n\n\n")
+}
+
+cvproj <- function(tbl,what,role,items){
+    command_start <- "\\cvproj"
+    res <- paste0(
+        command_start, "{", tbl[[what]], "}",
+        "{", tbl[[role]], "}",
+        "{", sapply(tbl[[items]], function(x)paste0(x,collapse = ", ")), "}"
+    )
+
+    cat(res, sep = "\n\n\n")
+}
+```
+
+# Summary
+
+I study the durability dynamics of settlement systems through two main questions: how do political institutions shape social relations, and to what extent does it impact the material organization of space over the long term? How can the production of physical space at a given moment by societies generate other processes, later on, and over particularly long duration? To better answer these questions, I'm analyzing settlement systems at different chronological periods and in different parts of the world with formalized approaches, mainly at local to regional scales. My aim is to identify forms of invariance in social and spatial processes, in order to better qualify variations between societies, and to better think our capacities to act on those contemporary systems.
+
+# Experience
+
+```{r}
+#| label: experience
+#| output: asis
+tibble::tribble(
+    ~role, ~institution, ~dates, ~details,
+    "Post-doctoral Fellow", "École des hautes études en sciences sociales, UMR CAMS, UMR CRH, ANR SoDUCo project", "01/2022 - Today", "I study urban activities in the city of Paris using digital data from commercial directories. These data make it possible to work on the level of individuals and addresses, on a nearly annual basis. They are the result of automatic extraction pipeline (OCR, NER and geocoding) carried out within the ANR SoDUCo and currently form more than 22M entries over the years 1787-1914.",
+    "Post-doctoral Fellow", "Archaïos - Archaeology, Culture and Heritage Company", "10/2020 - 12/2021", "Analysis of the growth dynamics of the Al-Ula oasis (Saudi Arabia) since the late 19th c. and direction of the GIS and DB pole of the international research program Al-Ula Cultural Oasis Project (UCOP).",
+    "Post-doctoral Fellow", "LabEx Dynamiques Territoriales et Spatiales", "09/2019 - 09/2020", "Analysis of the decline and closure of public service facilities in French cities since the mid-2000s.",
+    "Engineer", "EHESS, France-Japan Foundation", "2019 (3 months)", "Construction and analysis of a spatial database to compare social and economic transformations in the regions of Paris, Tokyo, London and New York since the 2000s.",
+    "Associate Lecturer", "University CY Cergy, Department of Humanities", "09/2018 - 08/2019", "Teaching in Geography undergraduate degree.",
+    "Associate Lecturer", "University of Paris 1, Department of Geography", "09/2017 - 08/2018", "Teaching in Geography undergraduate degree.",
+    "Engineer", "CNRS, ANR TransMonDyn project", "2013-2014 (14 months)", "Assistance in editing reports for the ANR and construction of the project website.",
+    "Temporary Lecturer", "University of Paris 1", "since 09/2013", "Teaching in Geography and Archaeology undergraduate degrees. Direction of the doctoral seminar Information systems and data processing in Archaeology."
+) |>
+    cvevents(when = "dates", what = "role", where = "institution", descr = "details")
+```
+
+# Last publications
+
+**Editor**
+
+2022 | M.E. Castiello, D. Mouralis, J. Gravier et L. Nahassia, Spatial Computation in Archaeology and History, [_Journal of Computer Applications in Archaeology_](https://journal.caa-international.org/collections/spatial-computation-in-archaeology-and-history)
+
+2022 | C. Plumejeaud-Perreau, M. Fargette, J. Gravier, T. Libourel, E. Masson, H. Mathian, L. Nahassia, L. Nuninger, X. Rodier, L. Sanders et E. Saux, Ontologies et dynamiques spatiales. Complémentarité des approches symboliques et numériques, [_Revue Internationale de Géomatique_](https://rig.revuesonline.com/en/articles/lvrig/abs/2022/01/contents/contents.html), vol. 31, no 1-2, Paris : Lavoisier
+
+---
+**Publications**
+
+2023 | J. Charbonnier, Y. Kanhoush, J. Gravier, G. Gourret et al., "Mapping an Arabian oasis: first results of the UCOP systematic survey of al‑ʿUlā (AlUla) Valley (2019–2021)", in Revealing Cultural Landscapes in North‑West Arabia, R. Foote, M. Guagnin, I. Périssé, et S. Karacic, Ed., _Supplement to Volume 51 of the Proceedings of the Seminar for Arabian Studies_, Oxford: Archaeopress, 2022, p. 51‑81
+
+
+2022 | C. Plumejeaud-Perreau, L. Nahassia, et J. Gravier, "Appréhender le changement des catégories pour l’étude d’une dynamique spatiale sur le temps long", _Revue Internationale de Géomatique_, vol. 31, no 1-2, Paris : Lavoisier, pp. 47-80, [https://doi.org/10.3166/rig31.47-80](https://doi.org/10.3166/rig31.47-80)
+
+# Last Talks
+
+**International colloquium**
+
+2023 | J. Gravier, "Time budgets and forms of preindustrial cities: time for empirical studies", _European Colloquium on Theoretical and Quantitative Geography_, Braga, Portugal, 17 septembre
+
+2023 | J. Charbonnier, J. Gravier, A. Leschallier de Lisle, A. de Smet, S. Boudia, V. Koszarek, et Y. Kanhoush, "Exploring land-use in arid regions based on statistical analyses of the agricultural plots in Al-Ula oasis (Hejaz, KSA)", _29th EAA Annual Meeting_, Queens University, Belfast, 31 août 2023
+
+2022 | J. Gravier, G. Gourret, Y. Kanhoush et J. Charbonnier, "Expansion of an oasis from the end of the 19th century to the present day: what are the factors behind these dynamics? Case study in Al-Ula, Saudi Arabia", _International Geographic Union Colloquium_, Paris, France, 19 juillet
