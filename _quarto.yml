@@ -8,7 +8,7 @@ website:
 
   page-footer:
     left: "&copy; 2023, J.Gravier"
-    right: "Built with [Quarto](https://quarto.org/)."
+    right: "Built with [Quarto Website](https://quarto.org/docs/websites/)."
 
   navbar:
     left:
@@ -20,6 +20,9 @@ website:
       
       - href: phd/index.qmd
         text: PhD
+      
+      - href: blog/index.qmd
+        text: Blog
 
 format:
   html:
