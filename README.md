@@ -1,2 +1,1 @@
-# infos
 Personnal website
