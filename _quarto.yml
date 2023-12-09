@@ -22,7 +22,7 @@ website:
         text: PhD
       
       - href: blog/index.qmd
-        text: Blog & package
+        text: Blog
 
 format:
   html:
