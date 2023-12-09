@@ -1,6 +1,8 @@
 ---
-title: "Scientific blogs"
+title: "Scientifics blogs"
 ---
 
 - Atelier SITraDA: Systèmes d'informations et traitements de données archéologiques <a href="https://sitrada.hypotheses.org/" style="color:#BA2E00;"> https://sitrada.hypotheses.org/</a>.
 - Archéologie du fait urbain (AFU) : <a href="https://faiturbain.hypotheses.org/" style="color:#BA2E00;"> https://faiturbain.hypotheses.org/</a>.
+
+- Package R morphalr: Morphological Analysis for Archaeology <a href="https://jgravier.github.io/morphalr/index.html" style="color:#BA2E00;"> https://jgravier.github.io/morphalr/index.html</a>.
