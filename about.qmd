@@ -19,12 +19,11 @@ BA in History (2010)
 
 BA in History of Art and Archaeology (2010)
 
+### CV
 
-### Experience
+[//]: # (Short CV: <a href="CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>, <a href="CV_court_EN/cv_court_en_202310.pdf" style="color:#BA2E00;"> EN </a>)
 
-Short CV: <a href="CV_court/cv_court_202310.pdf" style="color:#BA2E00;"> FR </a>, <a href="CV_court_EN/cv_court_en_202310.pdf" style="color:#BA2E00;"> EN </a>
-
-Long CV: <a href="CV_long/CV_long.pdf" style="color:#BA2E00;"> FR </a>, <a href="https://geographie-cites.cnrs.fr/en/members/julie-gravier/" style="color:#BA2E00;"> EN </a>
+<a href="CV_long/CV_long.pdf" style="color:#BA2E00;"> FR </a>
 
 :::
 

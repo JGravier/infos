@@ -4,7 +4,7 @@
     "href": "blog/index.html",
     "title": "Scientifics blogs",
     "section": "",
-    "text": "Atelier SITraDA: Systèmes d’informations et traitements de données archéologiques  https://sitrada.hypotheses.org/.\nArchéologie du fait urbain (AFU) :  https://faiturbain.hypotheses.org/.\nPackage R morphalr: Morphological Analysis for Archaeology  https://jgravier.github.io/morphalr/index.html."
+    "text": "Atelier SITraDA: Systèmes d’informations et traitements de données archéologiques  https://sitrada.hypotheses.org/.\nArchéologie du fait urbain (AFU) :  https://faiturbain.hypotheses.org/.\nPackage mafa: Morphological Analysis for Archaeology  https://jgravier.github.io/mafa/."
   },
   {
     "objectID": "phd/index.html",
@@ -37,15 +37,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Julie Gravier",
+    "title": "JG",
     "section": "",
-    "text": "Currently\nI am a post-doctoral researcher at EHESS, as part of the ANR SoDUCo project, within which I am studying the co-evolution of various urban activities in Paris over the 19th century.\n\n\nMy research\nI study the durability dynamics of settlement systems through two main questions: how do political institutions shape social relations, and to what extent does it impact the material organization of space over the long term? How can the production of physical space at a given moment by societies generate other processes, later on, and over particularly long duration?\nTo better answer these questions, I’m analyzing settlement systems at different chronological periods and in different parts of the world with formalized approaches, mainly at local to regional scales. My aim is to identify forms of invariance in social and spatial processes, in order to better qualify variations between societies, and to better think our capacities to act on those contemporary systems."
+    "text": "Julie Gravier, Ph.D.\nI am a Permanent Researcher at the French National Centre for Scientific Research (CNRS), in ThéMA Research Lab. I am a geographer and an archaeologist, and also work at the intersection with history and computer science through modelling approaches.\n\n\nMy research\nI study long-term settlement dynamics. Two questions drive my research: why and how do settlement systems persist in the same places for extremely long periods of time? What is the political role of individuals and groups in perpetuating the social functioning and spatial organization of settlement systems? My aim is to understand the ways in which societies inhabit the world, taking into account very long-term dynamics and the temporal shifts in certain decisions on other processes. To achieve this, I study a wide range of chronological and cultural cases, mainly on local to macro-regional scales."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Julie Gravier",
     "section": "",
-    "text": "Education\nPhD in Geography (2018)\nMA in Archaeology (2012)\nBA in History (2010)\nBA in History of Art and Archaeology (2010)\n\n\nExperience\nShort CV:  FR ,  EN \nLong CV:  FR ,  EN"
+    "text": "Education\nPhD in Geography (2018)\nMA in Archaeology (2012)\nBA in History (2010)\nBA in History of Art and Archaeology (2010)\n\n\nCV\n FR"
+  },
+  {
+    "objectID": "career/index.html",
+    "href": "career/index.html",
+    "title": "Career",
+    "section": "",
+    "text": "Experience\n2024-… | Permanent Researcher at CNRS, ThéMA laboratory\n2022-2023 | Postdoctoral Research Fellow, School of Advanced Studies in the Social Sciences (EHESS), Center for Social Analysis and Mathematics (CNRS UMR 8557 CAMS), Center for Historical Studies (CNRS UMR 8558 CRH), French National Agency for Research, SoDUCo Project - 23 months\n2020-2021 | Postdoctoral Research Fellow, Archaïos - Archaeology, Culture and Heritage Company, AlUla Cultural Oasis Project (FR/KSA) - 14.5 months\n2019-2020 | Postdoctoral Research Fellow, Territorial and Spatial Dynamics Laboratory of Excellence, University of Paris 1, Géographie-cités laboratory (CNRS UMR 8504) - 13 months\n2019 | Design Engineer, School of Advanced Studies in the Social Sciences (EHESS), France-Japan Fondation - 3 months\n2018-2019 | Lecturer, CY Cergy University, Department of Geography - 12 months\n2018-2019 | Lecturer, University of Paris 1 - Panthéon-Sorbonne, Department of Geography and Planning - 12 months\n2014-2017 | Temporary Teaching Assistant, University of Paris 1 - Panthéon-Sorbonne, Department of Geography and Planning, Deparment of Archaeology\n2013-2014 | Design Engineer, CNRS, French National Agency for Research, TransMonDyn Project - 13 months\n\n\nBlob"
   }
 ]

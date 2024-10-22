@@ -4,10 +4,10 @@ project:
 
 website:
   page-navigation: true
-  title: "Julie Gravier"
+  title: "JG"
 
   page-footer:
-    left: "&copy; 2023, J.Gravier"
+    left: "&copy; 2024, J.Gravier"
     right: "Built with [Quarto Website](https://quarto.org/docs/websites/)."
 
   navbar:
@@ -20,7 +20,7 @@ website:
       
       - href: phd/index.qmd
         text: PhD
-      
+        
       - href: blog/index.qmd
         text: Blog
 
