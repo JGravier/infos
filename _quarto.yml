@@ -21,8 +21,8 @@ website:
       - href: phd/index.qmd
         text: PhD
         
-      - href: blog/index.qmd
-        text: Blog
+      - href: publications/index.qmd
+        text: Publications
 
 format:
   html:

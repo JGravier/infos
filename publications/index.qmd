@@ -1,0 +1,70 @@
+---
+title: "Publications"
+subtitle: "by theme"
+---
+
+### Urban Activities and Functions
+J. Gravier et M. Barthelemy, « A typology of activities over a century of urban growth », _Nature Cities_, vol. 1, issue 9, 2024, p. 567–575. DOI: <a href="https://doi.org/10.1038/s44284-024-00108-7" style="color:#BA2E00;"> 10.1038/s44284-024-00108-7 </a>. Accessible on: <a href="https://hal.science/hal-04691067" style="color:#BA2E00;"> hal-04691067 </a>
+
+J. Gravier, « Reconfigurations territoriales des services publics dans les villes françaises (2009-2018) », in _CIST 2020 - Population, temps, territoires/Population, Time, Territories_, Aubervilliers: Collège international des sciences territoriales (CIST), 2020, p. 263 à 268. <a href="https://hal.archives-ouvertes.fr/hal-03114137" style="color:#BA2E00;"> hal-03114137 </a>
+
+J. Gravier, « Recognizing Temporalities in Urban Units from a Functional Approach: Three Case Studies », in _CAA 2014, 21st Century Archaeology, Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology_, F. Giligny, F. Djindjian, L. Costa, P. Moscati, et S. Robert, Éd., Oxford: Archaeopress, 2015, p. 371 à 380. <a href="https://hal.archives-ouvertes.fr/hal-01474197" style="color:#BA2E00;"> hal-01474197 </a>
+
+<br>
+
+### Land-Use and Landscape
+
+A. Defauconpret, J. Gravier, J. Charbonnier, G. Gourret, A. Leschallier de Lisle, S. Sepeau et Y. Kanhoush, « Geolocation of Old Photographs and Rephotography in the Field: Contribution to a New Understanding of the al-ʿŪla Oasis in the Early 20th Century a.d. », _Journal of Field Archaeology_, 2024, p. 1-24. DOI: <a href="https://doi.org/10.1080/00934690.2024.2391641" style="color:#BA2E00;"> 10.1080/00934690.2024.2391641 </a>
+
+J. Charbonnier, Y. Kanhoush, J. Gravier, G. Gourret, I. Achouche, V. Bernollin, S. Boudia, W. Bucci, B. Chiti, P. Clauss-Balty, V. Colard, E. Devaux, A. Dupont-Delaleuf, A. de Smet, C. Furstos, J. Goy, M. Haze, T. Hofstetter, R. Housse, T. Huet, C. Marquaire, M.P. Pellegrino, C. Raad, J.D. Ricart, A. Rosak, A.F. Saïd, D. Serres, P. Siméon, F. Tourtet, J. Giraud, « Mapping an Arabian oasis: first results of the UCOP systematic survey of al-ʿUlā (AlUla) Valley (2019–2021) », in Revealing Cultural Landscapes in North-West Arabia, R. Foote, M. Guagnin, I. Périssé, et S. Karacic, Éd., _Supplement to Volume 51 of the Proceedings of the Seminar for Arabian Studies_, Oxford: Archaeopress, 2023, p. 51 à 81.
+
+J. Gravier, « Dossier 4.B. Trajectoire de la ville de Noyon du Ier siècle de notre ère jusqu’à aujourd’hui », in _Le temps long du peuplement. Concepts et mots clés_, L. Sanders, A. Bretagnolle, P. Brun, M.-V. Ozouf-Marignier, et N. Verdier, Éd., Tours: Presses universitaires François Rabelais, 2020, p. 123-125
+
+<br>
+
+### Transitions in Settlement Systems
+J. Gravier, « Représenter et analyser les positions relatives des villes sur 2 000 ans », _Mappemonde_, vol. 129, 2020. DOI:  <a href="https://doi.org/10.4000/mappemonde.4562" style="color:#BA2E00;"> 10.4000/mappemonde.4562 </a>
+
+L. Nuninger _et al._, « Chapter 2: A generic conceptual framework for describing transitions in settlement systems : Application to a corpus of twelve transitions between 70 000 BP and 2050 », in _Settling the World : From Prehistory to the Metropolis Era_, L. Sanders, Éd., Tours: Presses universitaires François-Rabelais, 2021. <a href="https://books.openedition.org/pufr/19740" style="color:#BA2E00;"> books.openedition.org/pufr/19740 </a>
+
+S. Rey-Coyrehourcq, R. Cura, L. Nuninger, J. Gravier, L. Nahassia, et R. Hachi, « Chapter 15: Towards reproducible research in an interdisciplinary framework: issues and propositions regarding the transfer of the conceptual framework and the replication of models », in _Settling the World : From Prehistory to the Metropolis Era_, L. Sanders, Éd., Tours: Presses universitaires François-Rabelais, 2021. <a href="http://books.openedition.org/pufr/20002" style="color:#BA2E00;"> books.openedition.org/pufr/20002 </a>
+
+<br>
+
+
+
+### Concepts for the Study of Settlement Systems
+
+J. Gravier, L. Nahassia, D. Michelet, N. Verdier, et M. Olteanu, « Trajectoire », in _Le temps long du peuplement. Concepts et mots clés_, L. Sanders, A. Bretagnolle, P. Brun, M.-V. Ozouf-Marignier, et N. Verdier, Éd., Tours: Presses universitaires François Rabelais, 2020, p. 107 à 125.
+
+L. Nahassia, J. Gravier, D. Michelet, N. Verdier, et M. Olteanu, « Processus », _ibid_, p. 89 à 106.
+
+N. Verdier, J. Gravier, L. Nahassia, et D. Michelet, « Échelles : niveaux d’observation et de représentation », _ibid_, p. 67 à 88.
+
+D. Michelet, J. Gravier, L. Nahassia, et N. Verdier, « Temps, espaces et mots connexes », _ibid_, p. 47 à 66.
+
+<br>
+
+### Concepts and Practices in the Study of Spatial Dynamics
+
+#### Urban Studies/Urban Archaeology
+É. Cavanna, B. Desachy, C. Gorin, J. Gravier, L. Hermenault, et Collectif Afu, « Le projet collectif Archéologie du fait urbain (Afu) : un nouvel espace de discussion », _Les Nouvelles de l’archéologie_, nᵒ 164, 2021. DOI: <a href="https://doi.org/10.4000/nda.12209" style="color:#BA2E00;"> 10.4000/nda.12209 </a>
+
+J. Gravier, « Délimiter un espace d’étude sur 2 000 ans : complémentarité des approches territoriale et réticulaire », in _CIST 2018 - Représenter les territoires/Representing territories_, Rouen: Collège international des sciences territoriales (CIST), 2018, p. 389 à 395. <a href="https://hal.archives-ouvertes.fr/hal-01854367" style="color:#BA2E00;"> hal-01854367 </a>
+
+J. Gravier et L. Hermenault, « Faire dialoguer l’archéologie, la géographie et l’histoire : les enjeux de l’interdisciplinarité entre trois sciences sociales », _Archéo.doct : L’archéologie, science plurielle_, vol. 11, 2018, DOI: <a href="https://doi.org/10.4000/books.psorbonne.7087" style="color:#BA2E00;"> 10.4000/books.psorbonne.7087 </a>
+
+Q. Borderie, B. Desachy, J. Delahaye, J. Gravier, et A. Pinhède, « Synthèses Archéologiques Urbaines : un projet en cours », in _Archéologie de l’espace urbain_, É. Lorans et X. Rodier, Éd., Tours / Paris: Presses universitaires François-Rabelais / Cths, 2014, p. 262 à 276. DOI: <a href="https://doi.org/10.4000/books.pufr.7678" style="color:#BA2E00;"> 10.4000/books.pufr.7678 </a>
+
+H. Dulauroy-Lynch et J. Gravier, « La “synthèse archéologique urbaine”, l’exemple de Noyon. Un travail de recherche au service des archéologues et des habitants », _Les Nouvelles de l’archéologie_, nᵒ 136, 2014. DOI: <a href="https://doi.org/10.4000/nda.2508" style="color:#BA2E00;"> 10.4000/nda.2508 </a>
+
+#### Ontologies
+C. Plumejeaud-Perreau _et al._, Éd., Ontologies et dynamiques spatiales. Complémentarité des approches symboliques et numériques. _Revue Internationale de Géomatique_, vol. 31. nᵒ 1/2, Paris: Lavoisier, Jan. 2022. Included:
+
+  + C. Plumejeaud-Perreau, J. Gravier, E. Masson, L. Nahassia, X. Rodier, E. Saux, M. Fargette, T. Libourel, H. Mathian, L. Nuninger et L. Sanders « Introduction », DOI: <a href="https://doi.org/10.3166/rig31.7-19" style="color:#BA2E00;"> 10.3166/rig31.7-19</a>.
+  + C. Plumejeaud-Perreau, L. Nahassia, et J. Gravier, « Appréhender le changement des catégories pour l’étude d’une dynamique spatiale sur le temps long », DOI: <a href="https://doi.org/10.3166/RIG31.47-80" style="color:#BA2E00;"> 10.3166/RIG31.47-80</a>.
+
+#### Spatial Computation
+M. E. Castiello, D. Mouralis, J. Gravier, et L. Nahassia, Éd., Special Collection: Spatial Computation in Archaeology and History, _Journal of Computer Application in Archaeology_. 2021.
+
+<br>
