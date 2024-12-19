@@ -8,7 +8,7 @@ about:
 ---
 
 ::: {#hero-heading}
-##### <a href="https://geographie-cites.cnrs.fr/membres/julie-gravier/" style="color:#BA2E00;"> <font size="+2">{{< fa house >}}</font></a> <a href="https://orcid.org/0000-0003-0449-6499" style="color:#BA2E00;"> <font size="+2">{{< ai orcid >}}</font></a> <a href="https://scholar.google.fr/citations?user=_3L9a68AAAAJ&hl=fr" style="color:#BA2E00;"> <font size="+2">{{< ai google-scholar >}}</font></a> <a href="https://cv.hal.science/julie-gravier" style="color:#BA2E00;"> <font size="+2">{{< ai hal >}}</font></a> <a href="https://github.com/JGravier" style="color:#BA2E00;"> <font size="+2">{{< fa brands github >}}</font></a> {.centering}
+##### <a href="https://thema.univ-fcomte.fr/en/page_personnelle/jgravier" style="color:#BA2E00;"> <font size="+2">{{< fa house >}}</font></a> <a href="https://orcid.org/0000-0003-0449-6499" style="color:#BA2E00;"> <font size="+2">{{< ai orcid >}}</font></a> <a href="https://scholar.google.fr/citations?user=_3L9a68AAAAJ&hl=fr" style="color:#BA2E00;"> <font size="+2">{{< ai google-scholar >}}</font></a> <a href="https://cv.hal.science/julie-gravier" style="color:#BA2E00;"> <font size="+2">{{< ai hal >}}</font></a> <a href="https://github.com/JGravier" style="color:#BA2E00;"> <font size="+2">{{< fa brands github >}}</font></a> {.centering}
 
 #### Julie Gravier, Ph.D.
 I am a Permanent Researcher at the French National Centre for Scientific Research (CNRS), in <a href="https://thema.univ-fcomte.fr/en/" style="color:#BA2E00;">ThéMA Research Lab</a>. I am a geographer and an archaeologist, and also work at the intersection with history and computer science through modelling approaches.
