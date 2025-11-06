@@ -47,6 +47,10 @@ N. Verdier, J. Gravier, L. Nahassia, et D. Michelet, « Échelles : niveaux d
 
 D. Michelet, J. Gravier, L. Nahassia, et N. Verdier, « Temps, espaces et mots connexes », _ibid_, p. 47 à 66.
 
+J. Gravier et L. Nahassia, « Dossier 2.B. La distance-temps comme échelle de la croissance urbaine », _ibid_, p. 84 à 88
+
+L. Nahassia et J. Gravier, « Dossier 3.B. Cycle, théorie de la destruction créatrice de Schumpeter et systèmes de villes », _ibid_, p. 104 à 106
+
 <br>
 
 ### Concepts and Practices in the Study of Spatial Dynamics
@@ -70,5 +74,7 @@ C. Plumejeaud-Perreau _et al._, Éd., Ontologies et dynamiques spatiales. Compl�
 
 #### Spatial Computation
 M. E. Castiello, D. Mouralis, J. Gravier, et L. Nahassia, Éd., Special Collection: Spatial Computation in Archaeology and History, _Journal of Computer Application in Archaeology_. 2021.
+
+L. Nahassia et J. Gravier, « Dossier 4.A. Conceptualisation de trajectoires à partir de données GPS par Élodie Buard », in _Le temps long du peuplement. Concepts et mots clés_, L. Sanders, A. Bretagnolle, P. Brun, M.-V. Ozouf-Marignier, et N. Verdier, Éd., Tours: Presses universitaires François Rabelais, 2020, p. 122 à 123
 
 <br>
