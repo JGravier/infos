@@ -14,7 +14,7 @@ sidebar:
     - name: Contact
       items:
         - icon: envelope
-          text: juliecatherine.gravier@gmail.com
+          text: julie.gravier@cnrs.fr
         - icon: orcid
           text: 0000-0003-0449-6499
           href: https://orcid.org/0000-0003-0449-6499
@@ -39,11 +39,12 @@ sidebar:
     - name: Activities
       items:
         - Direction of Rzine Journal
-        - Organisation of 9 workshops, 3 sessions in international colloquium, 2 summer school
-        - +70 conferences, included 20 invited talks \& guest lectures
-        - 17 papers, book chapters \& conference proceedings
-        - Mentoring 3 MA \& 1 PhD in Archaeology
-        - Teaching 381h in Geography, 305h in Archaeology
+        - Organisation of 9 workshops, 4 sessions in international colloquium, 3 summer school
+        - +80 conferences, included 27 invited talks \& guest lectures
+        - 19 papers, book chapters \& conference proceedings
+        - Mentoring 4 MA \& 1 PhD in Archaeology
+        - In charge of two research seminars (291h)
+        - Teaching 381h in Geography, 70h in Archaeology
     - name: Methodology
       items:
         - Relational DB
@@ -99,10 +100,6 @@ cvproj <- function(tbl,what,role,items){
     cat(res, sep = "\n\n\n")
 }
 ```
-
-# Summary
-
-I study the durability dynamics of settlement systems through two main questions: how do political institutions shape social relations, and to what extent does it impact the material organization of space over the long term? How can the production of physical space at a given moment by societies generate other processes, later on, and over particularly long duration? To better answer these questions, I'm analyzing settlement systems at different chronological periods and in different parts of the world with formalized approaches, mainly at local to regional scales. My aim is to identify forms of invariance in social and spatial processes, in order to better qualify variations between societies, and to better think our capacities to act on those contemporary systems.
 
 # Experience
 

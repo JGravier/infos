@@ -14,7 +14,7 @@ sidebar:
     - name: Contact
       items:
         - icon: envelope
-          text: juliecatherine.gravier@gmail.com
+          text: julie.gravier@cnrs.fr
         - icon: orcid
           text: 0000-0003-0449-6499
           href: https://orcid.org/0000-0003-0449-6499
@@ -26,7 +26,6 @@ sidebar:
         - text: "Thèse en Géographie"
           inst: "Université Paris 1"
           time: "2012-2018"
-          details: "Titre: Deux mille ans d'une ville en système"
         - text: "Master d'Archéologie"
           inst: "Université Paris 1"
           time: "2010-2012"
@@ -38,12 +37,14 @@ sidebar:
           time: "2007-2010"
     - name: Activités
       items:
-        - Direction de la revue Rzine
-        - Organisation de 9 journées d'étude, 3 sessions de colloque international, 2 summer school
-        - +70 conférences, dont 20 invitations
-        - 17 articles, chapitres d'ouvrage \& actes de colloque
-        - Encadrement de 3 masters \& 1 thèse en archéologie
-        - Enseignement de 381h en géographie, 305h en archéologie
+        - Co-direction de la revue \textit{Rzine}
+        - Membre du comité éditorial de la revue \textit{Cybergeo}
+        - Organisation de 10 journées d'étude, 4 sessions de colloque international, 3 summer school
+        - +80 conférences, dont 27 invitations
+        - 19 articles, chapitres d'ouvrage \& actes de colloque
+        - Encadrement de 4 masters \& 1 thèse en archéologie
+        - Responsable de 2 séminaires de recherche (291h)
+        - Enseignement de 381h en géographie, 70h en archéologie
     - name: Méthodologie
       items:
         - BDD relationnelle
@@ -99,10 +100,6 @@ cvproj <- function(tbl,what,role,items){
     cat(res, sep = "\n\n\n")
 }
 ```
-
-# Résumé
-
-J’étudie les dynamiques de durabilité des peuplements en système à travers deux questions principales : comment les institutions politiques façonnent-elles les relations sociales et dans quelle mesure cela influence-t-il l’organisation matérielle de l’espace sur le temps long ? comment la production de l'espace matériel à un moment donné par les sociétés peut-elle provoquer d'autres processus, plus tard, et sur des durées particulièrement longues ? Pour mieux y répondre, j’analyse des systèmes de peuplement à différentes périodes chronologiques et dans différents endroits du monde, principalement à des échelles locales à régionales. Mon objectif est d'identifier des formes d'invariance des processus sociaux et spatiaux dans le but de mieux qualifier les variations selon les sociétés et de mieux réfléchir aux capacités d'action de nos sociétés contemporaines sur ces systèmes.
 
 # Expérience
 
