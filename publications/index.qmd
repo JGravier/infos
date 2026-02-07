@@ -13,7 +13,7 @@ J. Gravier, « Recognizing Temporalities in Urban Units from a Functional Appro
 <br>
 
 ### Land-Use and Landscape
-forthcoming 2025: J. Gravier, S. Baciocchi, P. Cristofoli, B. Duménieu, E. Carlinet, J. Chazalon, N. Abadie, S. Tual et J. Perret « Evaluating and Understanding the Geocoding of City Directories of Paris (1787-1914): Data-Driven Geography of Urban Sprawl and Densification », _Digital Humanities Quarterly_, 19(3), p. 000814.
+J. Gravier, S. Baciocchi, P. Cristofoli, B. Duménieu, E. Carlinet, J. Chazalon, N. Abadie, S. Tual et J. Perret « Evaluating and Understanding the Geocoding of City Directories of Paris (1787-1914): Data-Driven Geography of Urban Sprawl and Densification », _Digital Humanities Quarterly_, 2026, 19(4), p. 000814. <a href="https://dhq.digitalhumanities.org/vol/19/4/000814/000814.html" style="color:#BA2E00;"> dhq.digitalhumanities.org/vol/19/4/000814 </a>
 
 
 J. Charbonnier, Y. Kanhoush, E. Devaux, J. Gravier, V. Bernollin, T. Hofstetter et J. Giraud « AlUla Old Town and Oasis: Preliminary Results from the Study of the Farms Conducted within the Framework of the AlUla Cultural Oasis Project (Kingdom of Saudi Arabia) », L. Rainer, L. F. Guerrero Baca, F. Matero, L. Meyer. _Terra 2022 : Proceedings of the 13th World Congress on Earthen Architectural Heritage : Looking Back, Moving Forward : Advances in Conservation_, Santa Fe, New Mexico, USA, June 7-10, 2022, Getty Conservation Institute, pp.488-494, 2025, 9781606069158. <a href="https://hal.archives-ouvertes.fr/hal-05148634" style="color:#BA2E00;"> hal-05148634 </a>
@@ -76,5 +76,10 @@ C. Plumejeaud-Perreau _et al._, Éd., Ontologies et dynamiques spatiales. Compl�
 M. E. Castiello, D. Mouralis, J. Gravier, et L. Nahassia, Éd., Special Collection: Spatial Computation in Archaeology and History, _Journal of Computer Application in Archaeology_. 2021.
 
 L. Nahassia et J. Gravier, « Dossier 4.A. Conceptualisation de trajectoires à partir de données GPS par Élodie Buard », in _Le temps long du peuplement. Concepts et mots clés_, L. Sanders, A. Bretagnolle, P. Brun, M.-V. Ozouf-Marignier, et N. Verdier, Éd., Tours: Presses universitaires François Rabelais, 2020, p. 122 à 123
+
+#### Computer Applications and Quantitative Methods in Archaeology
+N. Frerebeau, J. Gravier et B. Marwick, _R pour l’archéologue: Exploration, visualisation et analyse de données_, 2025, OA: [https://r-archeo.huma-num.fr/](https://r-archeo.huma-num.fr/)
+
+J. Gravier, _mafa: Morphological Analysis for Archaeology_, 2024. R (>= 2.10). [R package version 0.0.0.9000]. OA: [https://jgravier.github.io/morphalr/](https://jgravier.github.io/morphalr/)
 
 <br>

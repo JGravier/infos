@@ -7,7 +7,7 @@ website:
   title: "JG"
 
   page-footer:
-    left: "&copy; 2025, J.Gravier"
+    left: "&copy; 2026, J.Gravier"
     right: "Built with [Quarto Website](https://quarto.org/docs/websites/)."
 
   navbar:
